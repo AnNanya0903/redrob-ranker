@@ -7,12 +7,12 @@
 # ============================================================================
 # Team identity  (PLACEHOLDERS — replace before submitting)
 # ============================================================================
-team_name: "your-team-name-here"
+team_name: "Undertow"
 
 primary_contact:
-  name: "Full Name"
-  email: "primary@example.com"
-  phone: "+91-XXXXXXXXXX"
+  name: "Ananya Y A"
+  email: "ananyagowda@gmail.com"
+  phone: "+91-7259327903"
 
 team_members:
   - name: "Member 1 Full Name"
