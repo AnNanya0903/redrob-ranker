@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+candidates.jsonl
+candidates.jsonl.gz
+*.egg-info/
+.streamlit/
