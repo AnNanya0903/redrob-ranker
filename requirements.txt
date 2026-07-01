@@ -1,0 +1,11 @@
+# --- Ranking step (rank.py) ---
+# Uses only the Python standard library (argparse, csv, gzip, json, re,
+# datetime, math). No third-party dependency is required to reproduce
+# the submission CSV. Python >= 3.10 required (uses `str | None` syntax).
+
+# --- Sandbox app (app.py) only ---
+# Streamlit powers the small-sample demo UI (submission_spec.md Section
+# 10.5). It is NOT used by rank.py and is not part of the ranking step
+# itself, so it has no bearing on the no-network/CPU-only ranking
+# constraint — it's only the hosting layer for the sandbox.
+streamlit>=1.35
